@@ -1,0 +1,7 @@
+sample_id,sample_type,batch_id,reception_date,status,operator,notes
+ECH001,water,BATCH_2024_06,2024-06-01,ARCHIVED,V.Djana,pH + ICP-MS
+ECH002,soil,BATCH_2024_06,2024-06-01,ARCHIVED,V.Djana,Spectrophotometry
+ECH003,cereal,BATCH_2024_06,2024-06-02,ARCHIVED,V.Djana,ICP-MS
+ECH004,water,BATCH_2024_07,2024-07-01,ANALYZED,V.Djana,pH-metry
+ECH005,vegetable,BATCH_2024_07,2024-07-01,RECEIVED,V.Djana,Pending analysis
+ECH006,soil,BATCH_2024_07,2024-07-02,ANALYZED,V.Djana,Spectrophotometry*
